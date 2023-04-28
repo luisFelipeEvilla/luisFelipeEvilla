@@ -13,23 +13,6 @@ Some of my recent projects include:
 # What I can do for you 👨‍💻
 Whether you need a full-stack developer to build your next web application or a consultant to help you optimize your software development processes, I have the skills and expertise to help you achieve your goals. With a strong focus on customer satisfaction, I pride myself on delivering high-quality work that meets the needs of my clients.
 
-# Languages and Technologies
-
-Technologies and Languages
-* Python 🐍
-* Java ☕
-* JavaScript 🚀
-* TypeScript 🦕
-* React ⚛️
-* Next.js 🚀
-* SQL 🗃️
-* MongoDB 🍃
-* PostgreSQL 🐘
-* Git 🗄️
-* Docker 🐳
-* Flutter 🎯
-* Google Data Studio 📊
-
 # Some of the services I offer include:
 
 * Full-stack web development
