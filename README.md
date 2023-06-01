@@ -14,4 +14,4 @@ Whether you need a full-stack developer to build your next web application or a 
 
 # Let's get in touch! 🤝
 
-If you're interested in learning more about my skills and experience, or if you have a project that you'd like to discuss, feel free to reach out to me at luisfelipeevilla588@gmail.com. I'm always open to new opportunities and challenges, and I'd love to hear from you!
+If you're interested in learning more about my skills and experience, or if you have a project that you'd like to discuss, feel free to reach out to me at luisevilla588@gmail.com. I'm always open to new opportunities and challenges, and I'd love to hear from you!
